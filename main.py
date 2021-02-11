@@ -49,7 +49,7 @@ class App(tk.Frame):
         self.textbox.place(x="8", y="180")
     
     def create_inserts(self):
-        text0 = " uol.com.br"
+        text0 = " site.com.br"
         text1 = " 0"
         text2 = " 0000"
         self.ini.insert(0, text0)
