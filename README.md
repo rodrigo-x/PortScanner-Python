@@ -1,6 +1,6 @@
 # PortScanner-Python
 
-# English:
+## English:
 
 This Port Scanner was writed with Python
 
@@ -12,7 +12,7 @@ Be aware!
 
 Everyone is welcome to contribute.
 
-# Portuguese:
+## Portuguese:
 
 Esse Port Scanner foi escrito em Python
 
