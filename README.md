@@ -24,8 +24,7 @@ Seja consciente!
 
 Contribua!
 
-## Edit
-
+## Clone and Enjoy!
 
 ```bash
 git clone git://github.com/rodrigojs/PortScanner-Python.git
