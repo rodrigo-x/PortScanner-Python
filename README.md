@@ -23,3 +23,11 @@ Não use isso para o mal!
 Seja consciente!
 
 Contribua!
+
+## Edit
+
+
+```bash
+git clone git://github.com/rodrigojs/PortScanner-Python.git
+cd PortScanner-Python
+```
