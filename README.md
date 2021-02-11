@@ -4,7 +4,7 @@
 
 This Port Scanner was writed with Python
 
-This portscanner was created for the purpose of learning only.
+This Port Scanner was created for the purpose of learning only.
 
 Don`t use it for evil.
 
@@ -14,7 +14,7 @@ Everyone is welcome to contribute.
 
 # Portuguese:
 
-Esse PortScanner foi escrito em Python
+Esse Port Scanner foi escrito em Python
 
 Foi criado com o propósito apenas de aprendizado.
 
