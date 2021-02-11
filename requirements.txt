@@ -1,4 +1,4 @@
 # install python requirement libs
-# shell$>  sudo pip install -r requirement_python.txt
+# shell$>  sudo pip install -r requirements.txt
 
 tkinter
