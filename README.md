@@ -6,9 +6,9 @@ This Port Scanner was writed with Python
 
 This Port Scanner was created for the purpose of learning only.
 
-Don`t use it for evil.
+Don`t use it for evil!
 
-Be aware.
+Be aware!
 
 Everyone is welcome to contribute.
 
@@ -18,8 +18,8 @@ Esse Port Scanner foi escrito em Python
 
 Foi criado com o propósito apenas de aprendizado.
 
-Não use isso para o mal.
+Não use isso para o mal!
 
-Seja consciente.
+Seja consciente!
 
-Contribua.
+Contribua!
