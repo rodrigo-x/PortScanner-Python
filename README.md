@@ -29,4 +29,5 @@ Contribua!
 ```bash
 git clone git://github.com/rodrigojs/PortScanner-Python.git
 cd PortScanner-Python
+python main.py
 ```
