@@ -31,4 +31,6 @@ git clone git://github.com/rodrigojs/PortScanner-Python.git
 cd PortScanner-Python
 python main.py
 ```
+## Preview
+
 ![image](https://user-images.githubusercontent.com/1559845/114341178-85790080-9b2f-11eb-924f-3ac917ba7ef2.png)
