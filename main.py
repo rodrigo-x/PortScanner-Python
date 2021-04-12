@@ -9,7 +9,7 @@ DATE = datetime.now().strftime('%H:%M - %d/%m/%Y')
 SEGOE = 'Segoe 11'
 
 class App(tk.Frame):
-    def __init__(self, master=None):
+    def __init__(self, master = None):
         super().__init__(master)
         self.create_labels()
         self.create_entries()
@@ -104,7 +104,9 @@ class App(tk.Frame):
 root = tk.Tk()
 PortScanner = App(master = root)
 PortScanner.master.config(background = '#273238')
+PortScanner.master.iconbitmap(r'/home/rodrigo/pirate.ico')
 PortScanner.master.title('PortScanner')
 PortScanner.master.geometry('400x540+450+20')
 PortScanner.master.resizable(False, False)
+PortScanner.master.eval('tk::PlaceWindow . center')
 PortScanner.mainloop()
