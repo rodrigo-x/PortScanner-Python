@@ -1,4 +1,4 @@
-# portscanner-python
+# PortScanner-Python
 
 ## English:
 
